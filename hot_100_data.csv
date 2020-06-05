@@ -1,0 +1,1001 @@
+name,artist,year,position,key,mode,full_key,valence,danceability,tempo
+Old Town Road - Remix,Lil Nas X,2019,1,F#,major,F# major,63.9,87.8,136.041
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2019,2,D,major,D major,92.5,75.5,89.96
+Without Me,Halsey,2019,3,F#,major,F# major,53.3,75.2,136.041
+bad guy,Billie Eilish,2019,4,G,major,G major,56.2,70.1,135.128
+Wow.,Post Malone,2019,5,B,minor,B minor,38.8,82.9,99.96
+Happier,Marshmello,2019,6,F,major,F major,67.1,68.7,100.015
+7 rings,Ariana Grande,2019,7,C#,minor,C# minor,32.7,77.8,140.048
+Talk,Khalid,2019,8,C,major,C major,33.8,90.0,136.001
+SICKO MODE,Travis Scott,2019,9,G#,major,G# major,44.6,83.4,155.008
+Sucker,Jonas Brothers,2019,10,C#,minor,C# minor,95.2,84.2,137.958
+High Hopes,Panic! At The Disco,2019,11,F,major,F major,68.1,57.9,82.014
+"thank u, next",Ariana Grande,2019,12,C#,major,C# major,41.2,71.7,106.966
+Truth Hurts,Lizzo,2019,13,E,minor,E minor,41.2,71.5,158.087
+Dancing With A Stranger (with Normani),Sam Smith,2019,14,G#,major,G# major,34.7,74.1,102.998
+Señorita,Shawn Mendes,2019,15,A,minor,A minor,75.0,75.9,116.947
+I Don't Care (with Justin Bieber),Ed Sheeran,2019,16,F#,major,F# major,84.2,79.8,101.956
+Eastside (with Halsey & Khalid),benny blanco,2019,17,F#,minor,F# minor,31.9,56.0,89.391
+Going Bad (feat. Drake),Meek Mill,2019,18,E,minor,E minor,54.4,88.9,86.003
+Shallow,Lady Gaga,2019,19,G,major,G major,32.3,57.2,95.799
+Better,Khalid,2019,20,C,minor,C minor,11.6,44.2,97.565
+No Guidance (feat. Drake),Chris Brown,2019,21,C#,minor,C# minor,13.7,69.8,92.932
+Girls Like You (feat. Cardi B),Maroon 5,2019,22,C,major,C major,44.8,85.1,124.959
+Sweet but Psycho,Ava Max,2019,23,C#,major,C# major,62.8,71.9,133.002
+Suge,DaBaby,2019,24,D,minor,D minor,84.4,87.6,75.445
+MIDDLE CHILD,J. Cole,2019,25,G#,major,G# major,46.3,83.7,123.984
+Drip Too Hard (Lil Baby & Gunna),Lil Baby,2019,26,C#,minor,C# minor,38.9,89.7,112.511
+Someone You Loved,Lewis Capaldi,2019,27,C#,major,C# major,44.6,50.1,109.891
+Ransom,Lil Tecca,2019,28,G,minor,G minor,22.6,74.5,179.974
+If I Can't Have You,Shawn Mendes,2019,29,D,major,D major,86.4,69.2,123.911
+Goodbyes (feat. Young Thug),Post Malone,2019,30,F,major,F major,16.3,54.8,150.068
+ZEZE (feat. Travis Scott & Offset),Kodak Black,2019,31,G#,minor,G# minor,50.4,86.1,98.043
+Better Now,Post Malone,2019,32,Bb,major,Bb major,34.1,68.0,145.038
+Youngblood,5 Seconds of Summer,2019,33,G,minor,G minor,15.2,59.6,120.274
+Money In The Grave (Drake ft. Rick Ross),Drake,2019,34,Bb,minor,Bb minor,10.1,83.1,100.541
+Speechless,Dan + Shay,2019,35,C#,major,C# major,38.6,61.6,135.929
+"break up with your girlfriend, i'm bored",Ariana Grande,2019,36,F,minor,F minor,33.5,72.6,169.999
+Please Me,Cardi B,2019,37,C#,major,C# major,65.0,74.7,133.992
+Money,Cardi B,2019,38,G#,minor,G# minor,21.9,95.0,130.003
+You Need To Calm Down,Taylor Swift,2019,39,D,major,D major,71.4,77.1,85.026
+Panini,Lil Nas X,2019,40,F,minor,F minor,47.5,70.3,153.848
+Look Back at It,A Boogie Wit da Hoodie,2019,41,D#,minor,D# minor,53.6,79.1,96.057
+a lot,21 Savage,2019,42,C#,major,C# major,27.4,83.7,145.972
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,2019,43,C,major,C major,72.8,61.0,182.162
+MIA (feat. Drake),Bad Bunny,2019,44,F#,minor,F# minor,15.8,81.7,97.062
+Pop Out (feat. Lil Tjay),Polo G,2019,45,C#,major,C# major,26.1,77.2,168.112
+Beautiful Crazy,Luke Combs,2019,46,B,major,B major,38.2,55.2,103.313
+Thotiana,Blueface,2019,47,Bb,minor,Bb minor,39.1,90.6,104.025
+Lucid Dreams,Juice WRLD,2019,48,F#,minor,F# minor,21.8,51.1,83.903
+Mo Bamba,Sheck Wes,2019,49,E,major,E major,26.1,72.9,146.034
+Beautiful People (feat. Khalid),Ed Sheeran,2019,50,F,minor,F minor,54.8,64.0,92.977
+Wake Up in the Sky,Gucci Mane,2019,51,E,minor,E minor,36.7,80.0,143.01
+Whiskey Glasses,Morgan Wallen,2019,52,F#,major,F# major,70.7,61.4,149.959
+God's Country,Blake Shelton,2019,53,Bb,major,Bb major,21.7,53.8,139.984
+Be Alright,Dean Lewis,2019,54,B,major,B major,44.3,55.3,126.684
+Pure Water (with Migos),Mustard,2019,55,C,major,C major,13.7,68.2,202.015
+The Git Up,Blanco Brown,2019,56,A,major,A major,81.1,84.7,97.984
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,2019,57,B,major,B major,61.4,84.0,96.158
+Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding,2019,58,C#,minor,C# minor,49.2,57.4,144.111
+Envy Me,Calboy,2019,59,C#,minor,C# minor,58.4,74.0,149.042
+You Say,Lauren Daigle,2019,60,F,major,F major,7.91,48.6,147.892
+"Hey Look Ma, I Made It",Panic! At The Disco,2019,61,F,major,F major,58.0,57.7,107.936
+Circles,Post Malone,2019,62,C,major,C major,55.3,69.5,120.042
+Beer Never Broke My Heart,Luke Combs,2019,63,C#,major,C# major,64.0,54.0,77.0
+The London (feat. J. Cole & Travis Scott),Young Thug,2019,64,E,minor,E minor,20.6,78.4,97.991
+Con Calma - Remix,Daddy Yankee,2019,65,G#,minor,G# minor,61.3,73.6,94.026
+Murder On My Mind,YNW Melly,2019,66,C,minor,C minor,74.0,75.9,115.007
+when the party's over,Billie Eilish,2019,67,E,major,E major,19.8,36.7,82.642
+Act Up,City Girls,2019,68,G#,major,G# major,31.3,93.8,97.075
+I Like It,Cardi B,2019,69,F,minor,F minor,65.0,81.6,136.048
+Trampoline (with ZAYN),SHAED,2019,70,G,minor,G minor,49.8,61.9,126.803
+Leave Me Alone,Flipp Dinero,2019,71,G,major,G major,74.2,79.2,150.024
+breathin,Ariana Grande,2019,72,G#,major,G# major,36.4,56.8,100.049
+bury a friend,Billie Eilish,2019,73,G#,major,G# major,19.6,90.5,120.046
+Close Friends (Lil Baby & Gunna),Lil Baby,2019,74,Bb,minor,Bb minor,69.8,67.6,158.896
+Baby Shark,Pinkfong,2019,75,G#,major,G# major,77.7,82.9,115.056
+My Type,Saweetie,2019,76,D,major,D major,58.7,89.9,105.038
+Worth It,YK Osiris,2019,77,F,minor,F minor,42.2,76.4,123.936
+Only Human,Jonas Brothers,2019,78,C,major,C major,87.4,79.5,94.01
+Knockin' Boots,Luke Bryan,2019,79,D,major,D major,63.4,73.9,131.983
+Trip,Ella Mai,2019,80,B,minor,B minor,35.8,47.7,79.882
+Rumor,Lee Brice,2019,81,A,major,A major,59.9,65.5,140.975
+Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,2019,82,A,major,A major,43.4,58.1,93.023
+How Do You Sleep?,Sam Smith,2019,83,C#,minor,C# minor,34.5,47.7,110.567
+Baby (Lil Baby feat. DaBaby),Quality Control,2019,84,Bb,major,Bb major,46.0,97.0,108.003
+Look What God Gave Her,Thomas Rhett,2019,85,D,major,D major,88.3,73.9,113.0
+Good as You,Kane Brown,2019,86,G#,major,G# major,76.9,63.4,153.831
+Clout (feat. Cardi B),Offset,2019,87,C#,major,C# major,42.4,91.9,140.022
+Love Lies (with Normani),Khalid,2019,88,F#,major,F# major,33.8,70.8,143.955
+One Thing Right,Marshmello,2019,89,E,major,E major,43.9,65.9,88.042
+Cash Shit (feat. DaBaby),Megan Thee Stallion,2019,90,C#,major,C# major,54.9,92.1,130.028
+Tequila,Dan + Shay,2019,91,B,major,B major,49.4,48.9,86.016
+Shotta Flow,NLE Choppa,2019,92,A,major,A major,45.0,88.8,120.088
+Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Megan Thee Stallion,2019,93,C,major,C major,57.0,87.2,98.985
+Talk You Out Of It,Florida Georgia Line,2019,94,E,major,E major,55.8,65.1,119.964
+Beautiful (feat. Camila Cabello),Bazzi,2019,95,D,major,D major,24.9,63.8,100.027
+Eyes On You,Chase Rice,2019,96,A,major,A major,47.6,60.6,97.155
+All To Myself,Dan + Shay,2019,97,C#,major,C# major,56.5,64.6,94.975
+boyfriend (with Social House),Ariana Grande,2019,98,Bb,minor,Bb minor,70.2,40.0,190.097
+Walk Me Home,P!nk,2019,99,C#,major,C# major,43.2,65.2,88.038
+Robbery,Juice WRLD,2019,100,D,major,D major,57.8,68.5,159.966
+God's Plan,Drake,2018,1,G,major,G major,37.3,75.8,77.176
+Perfect,Ed Sheeran,2018,2,G#,major,G# major,16.8,59.9,95.05
+Meant to Be (feat. Florida Georgia Line),Bebe Rexha,2018,3,Bb,major,Bb major,58.9,64.2,153.995
+Havana (feat. Young Thug),Camila Cabello,2018,4,D,major,D major,39.4,76.5,104.988
+rockstar (feat. 21 Savage),Post Malone,2018,5,F,minor,F minor,12.9,58.5,159.801
+Psycho (feat. Ty Dolla $ign),Post Malone,2018,6,G#,major,G# major,45.9,75.0,140.06
+I Like It,Cardi B,2018,7,F,minor,F minor,65.0,81.6,136.048
+The Middle,Zedd,2018,8,G,major,G major,43.7,75.3,107.01
+In My Feelings,Drake,2018,9,C#,major,C# major,35.0,83.5,91.03
+Girls Like You (feat. Cardi B),Maroon 5,2018,10,C,major,C major,44.8,85.1,124.959
+Nice For What,Drake,2018,11,G#,major,G# major,79.2,56.7,93.35
+Lucid Dreams,Juice WRLD,2018,12,F#,minor,F# minor,21.8,51.1,83.903
+Better Now,Post Malone,2018,13,Bb,major,Bb major,34.1,68.0,145.038
+Finesse - Remix; feat. Cardi B,Bruno Mars,2018,14,F,minor,F minor,92.6,70.4,105.115
+Boo'd Up,Ella Mai,2018,15,Bb,minor,Bb minor,22.0,39.7,81.201
+New Rules,Dua Lipa,2018,16,A,minor,A minor,60.8,76.2,116.073
+SAD!,XXXTENTACION,2018,17,G#,major,G# major,47.3,74.0,75.023
+Never Be the Same,Camila Cabello,2018,18,C,major,C major,26.4,64.3,129.961
+Love Lies (with Normani),Khalid,2018,19,F#,major,F# major,33.8,70.8,143.955
+no tears left to cry,Ariana Grande,2018,20,C,major,C major,36.6,70.3,121.969
+Mine,Bazzi,2018,21,E,major,E major,71.7,71.0,142.929
+Thunder,Imagine Dragons,2018,22,C,major,C major,27.4,60.8,167.969
+Look Alive (feat. Drake),BlocBoy JB,2018,23,Bb,major,Bb major,61.2,91.9,139.973
+Delicate,Taylor Swift,2018,24,A,minor,A minor,4.99,75.0,95.045
+Yes Indeed,Lil Baby,2018,25,F,minor,F minor,56.2,96.4,119.958
+FRIENDS,Anne-Marie,2018,26,A,minor,A minor,53.4,62.6,95.079
+Bad At Love,Halsey,2018,27,C,major,C major,61.2,67.5,118.384
+Taste (feat. Offset),Tyga,2018,28,C,major,C major,35.9,86.6,98.001
+Let You Down,NF,2018,29,F,minor,F minor,46.4,66.2,147.997
+No Limit,G-Eazy,2018,30,C#,major,C# major,40.5,83.8,175.957
+FEFE,6ix9ine,2018,31,C#,major,C# major,37.6,93.1,125.978
+Tequila,Dan + Shay,2018,32,B,major,B major,49.4,48.9,86.016
+Feel It Still,Portugal. The Man,2018,33,C#,minor,C# minor,75.4,80.1,79.028
+MotorSport,Migos,2018,34,D,major,D major,18.8,90.4,137.996
+I Like Me Better,Lauv,2018,35,A,major,A major,41.9,75.2,91.97
+Youngblood,5 Seconds of Summer,2018,36,G,minor,G minor,15.2,59.6,120.274
+Whatever It Takes,Imagine Dragons,2018,37,Bb,minor,Bb minor,55.6,67.2,134.945
+Ric Flair Drip (& Metro Boomin),21 Savage,2018,38,A,major,A major,33.3,88.0,100.007
+I Fall Apart,Post Malone,2018,39,G#,minor,G# minor,29.1,55.6,143.95
+Pray For Me (with Kendrick Lamar),Kendrick Lamar,2018,40,D,major,D major,18.8,73.5,100.584
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2018,41,F#,major,F# major,50.8,60.1,102.061
+SICKO MODE,Travis Scott,2018,42,G#,major,G# major,44.6,83.4,155.008
+Walk It Talk It,Migos,2018,43,D,major,D major,39.5,90.7,145.914
+Gucci Gang,Lil Pump,2018,44,F,major,F major,69.9,93.6,119.889
+Him & I (with Halsey),G-Eazy,2018,45,D,major,D major,19.1,58.9,87.908
+In My Blood,Shawn Mendes,2018,46,F,major,F major,45.9,62.5,140.022
+All The Stars (with SZA),Kendrick Lamar,2018,47,F,minor,F minor,46.5,70.5,96.799
+Stir Fry,Migos,2018,48,D,major,D major,50.8,81.7,181.982
+Too Good At Goodbyes,Sam Smith,2018,49,F,major,F major,47.6,68.1,91.873
+LOVE. FEAT. ZACARI.,Kendrick Lamar,2018,50,Bb,major,Bb major,78.0,80.2,126.049
+This Is America,Childish Gambino,2018,51,F,major,F major,54.9,85.4,120.024
+Nonstop,Drake,2018,52,F#,minor,F# minor,45.5,90.9,154.984
+Heaven,Kane Brown,2018,53,A,major,A major,52.1,67.7,80.009
+Bodak Yellow,Cardi B,2018,54,B,minor,B minor,48.5,92.6,125.022
+Freaky Friday (feat. Chris Brown),Lil Dicky,2018,55,G#,major,G# major,75.5,75.5,133.123
+GUMMO,6ix9ine,2018,56,D,major,D major,63.5,66.0,157.036
+Plug Walk,Rich The Kid,2018,57,B,major,B major,15.8,87.6,94.981
+Wait,Maroon 5,2018,58,G#,major,G# major,45.2,65.5,126.088
+Be Careful,Cardi B,2018,59,F#,minor,F# minor,53.5,82.0,152.279
+Wolves,Selena Gomez,2018,60,B,minor,B minor,30.6,72.4,124.987
+Bartier Cardi (feat. 21 Savage),Cardi B,2018,61,C#,major,C# major,10.9,90.8,138.015
+God is a woman,Ariana Grande,2018,62,C#,major,C# major,28.7,60.4,144.971
+"Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj",YG,2018,63,C#,major,C# major,11.8,74.3,203.927
+Sorry Not Sorry,Demi Lovato,2018,64,B,minor,B minor,87.3,70.2,144.004
+How Long,Charlie Puth,2018,65,C#,minor,C# minor,81.1,84.5,109.974
+Lights Down Low,MAX,2018,66,C,minor,C minor,63.5,62.2,81.059
+Young Dumb & Broke,Khalid,2018,67,C#,major,C# major,39.4,79.8,136.949
+One Kiss,Dua Lipa,2018,68,A,minor,A minor,58.1,79.7,124.022
+Natural,Imagine Dragons,2018,69,D,major,D major,21.3,44.8,97.773
+You Make It Easy,Jason Aldean,2018,70,G,major,G major,40.6,37.5,132.025
+Shape of You,Ed Sheeran,2018,71,C#,minor,C# minor,93.1,82.5,95.977
+I Get the Bag (feat. Migos),Gucci Mane,2018,72,B,major,B major,42.5,89.0,139.948
+"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,2018,73,C,major,C major,65.3,52.7,135.543
+Plain Jane,A$AP Ferg,2018,74,B,major,B major,52.0,79.7,170.142
+Sky Walker (feat. Travis Scott),Miguel,2018,75,F#,major,F# major,12.9,62.9,145.959
+Marry Me,Thomas Rhett,2018,76,D#,major,D# major,47.4,33.3,85.028
+Eastside (with Halsey & Khalid),benny blanco,2018,77,F#,minor,F# minor,32.9,63.2,89.949
+Call Out My Name,The Weeknd,2018,78,C#,major,C# major,16.5,44.9,134.144
+"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,2018,79,C#,major,C# major,37.6,64.5,137.133
+Happier,Marshmello,2018,80,F,major,F major,67.1,68.7,100.015
+Te Boté - Remix,Nio Garcia,2018,81,B,minor,B minor,44.2,90.3,96.507
+Simple,Florida Georgia Line,2018,82,D#,major,D# major,86.4,36.2,199.811
+Lemon,N.E.R.D,2018,83,C#,major,C# major,20.1,91.6,94.997
+1-800-273-8255,Logic,2018,84,F,minor,F minor,35.7,62.0,100.023
+Say Something (feat. Chris Stapleton),Justin Timberlake,2018,85,Bb,major,Bb major,37.2,70.7,97.04
+I'm Upset,Drake,2018,86,B,minor,B minor,50.4,89.9,149.953
+Get Along,Kenny Chesney,2018,87,G,major,G major,35.0,63.2,92.456
+Moonlight,XXXTENTACION,2018,88,A,minor,A minor,71.1,92.1,128.009
+What Lovers Do (feat. SZA),Maroon 5,2018,89,F,minor,F minor,41.9,79.9,110.001
+X,Nicky Jam,2018,90,A,minor,A minor,69.4,59.4,179.968
+Outside Today,YoungBoy Never Broke Again,2018,91,B,minor,B minor,5.85,85.1,134.068
+Trip,Ella Mai,2018,92,B,minor,B minor,35.8,47.7,79.882
+Dura,Daddy Yankee,2018,93,C#,major,C# major,83.9,78.3,95.001
+changes,XXXTENTACION,2018,94,B,major,B major,52.0,66.9,64.934
+Mercy,Brett Young,2018,95,E,major,E major,21.9,63.8,71.957
+One Number Away,Luke Combs,2018,96,F#,minor,F# minor,52.7,54.4,144.075
+Powerglide (feat. Juicy J) - From SR3MM,Rae Sremmurd,2018,97,C#,minor,C# minor,58.4,71.3,173.948
+IDGAF,Dua Lipa,2018,98,G,major,G major,51.0,83.6,97.028
+Mi Gente (feat. Beyoncé),J Balvin,2018,99,B,minor,B minor,46.9,75.9,105.021
+Believer,Imagine Dragons,2018,100,Bb,minor,Bb minor,66.6,77.6,124.949
+Shape of You,Ed Sheeran,2017,1,C#,minor,C# minor,93.1,82.5,95.977
+Despacito - Remix,Luis Fonsi,2017,2,D,major,D major,81.6,65.3,178.085
+That's What I Like,Bruno Mars,2017,3,C#,major,C# major,86.0,85.3,134.066
+HUMBLE.,Kendrick Lamar,2017,4,C#,minor,C# minor,42.1,90.8,150.011
+Something Just Like This,The Chainsmokers,2017,5,B,minor,B minor,44.6,61.7,103.019
+Bad and Boujee (feat. Lil Uzi Vert),Migos,2017,6,B,major,B major,17.5,92.7,127.076
+Closer,The Chainsmokers,2017,7,G#,major,G# major,66.1,74.8,95.01
+Body Like A Back Road,Sam Hunt,2017,8,F,major,F major,66.1,73.2,98.938
+Believer,Imagine Dragons,2017,9,Bb,minor,Bb minor,71.9,77.2,124.988
+Congratulations,Post Malone,2017,10,F#,major,F# major,49.2,63.0,123.146
+Say You Won't Let Go,James Arthur,2017,11,Bb,major,Bb major,49.4,35.8,85.043
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,2017,12,G,major,G major,81.1,60.9,80.924
+XO Tour Llif3,Lil Uzi Vert,2017,13,B,minor,B minor,40.1,73.2,155.096
+Mask Off,Future,2017,14,D,major,D major,28.1,83.3,150.062
+Unforgettable,French Montana,2017,15,F#,major,F# major,73.3,72.6,97.985
+24K Magic,Bruno Mars,2017,16,C#,major,C# major,63.2,81.8,106.97
+Stay,Zedd,2017,17,F,minor,F minor,54.4,69.0,102.04
+Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,2017,18,C,minor,C minor,63.2,67.1,97.979
+Black Beatles,Rae Sremmurd,2017,19,C,major,C major,35.5,79.4,145.926
+Starboy,The Weeknd,2017,20,G,major,G major,48.6,67.9,186.003
+Location,Khalid,2017,21,C#,minor,C# minor,32.6,73.6,80.126
+Attention,Charlie Puth,2017,22,D#,minor,D# minor,77.7,77.4,100.041
+There's Nothing Holdin' Me Back,Shawn Mendes,2017,23,B,minor,B minor,96.9,86.6,121.998
+Bodak Yellow,Cardi B,2017,24,B,minor,B minor,45.8,92.9,125.022
+Redbone,Childish Gambino,2017,25,C#,major,C# major,60.7,74.5,160.033
+I Don’t Wanna Live Forever (Fifty Shades Darker),Various Artists,2017,26,C,major,C major,9.73,73.4,117.967
+It Ain't Me (with Selena Gomez),Kygo,2017,27,C,major,C major,51.5,64.0,99.968
+iSpy (feat. Lil Yachty),KYLE,2017,28,G,major,G major,67.2,74.6,75.016
+Issues,Julia Michaels,2017,29,G#,major,G# major,45.5,72.8,114.145
+Scars To Your Beautiful,Alessia Cara,2017,30,C,major,C major,45.1,57.3,97.085
+1-800-273-8255,Logic,2017,31,F,minor,F minor,35.7,62.0,100.023
+Slow Hands,Niall Horan,2017,32,C,major,C major,85.0,73.5,85.899
+Love On The Brain,Rihanna,2017,33,E,minor,E minor,37.8,50.9,172.006
+I Feel It Coming,The Weeknd,2017,34,C,minor,C minor,58.5,77.3,92.987
+Bounce Back,Big Sean,2017,35,C#,minor,C# minor,27.3,78.0,81.502
+Strip That Down,Liam Payne,2017,36,F#,major,F# major,54.2,87.4,106.023
+Fake Love,Drake,2017,37,A,minor,A minor,61.3,92.8,134.007
+Don't Wanna Know (feat. Kendrick Lamar),Maroon 5,2017,38,G,major,G major,42.7,77.6,100.025
+Look What You Made Me Do,Taylor Swift,2017,39,A,minor,A minor,47.4,76.7,128.072
+Castle on the Hill,Ed Sheeran,2017,40,D,major,D major,47.1,46.1,135.007
+Bad Things (with Camila Cabello),Machine Gun Kelly,2017,41,D,major,D major,30.5,69.7,137.853
+Paris,The Chainsmokers,2017,42,D,major,D major,25.1,64.6,99.999
+Side To Side,Ariana Grande,2017,43,F#,minor,F# minor,61.2,65.0,159.174
+Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,2017,44,A,minor,A minor,74.2,72.0,101.965
+Feel It Still,Portugal. The Man,2017,45,C#,minor,C# minor,77.1,78.0,78.969
+Let Me Love You,DJ Snake,2017,46,G#,major,G# major,16.3,64.9,99.988
+Sorry Not Sorry,Demi Lovato,2017,47,B,minor,B minor,87.3,70.2,144.004
+Bank Account,21 Savage,2017,48,G#,minor,G# minor,37.6,88.4,75.016
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,2017,49,C,major,C major,70.1,66.7,113.03
+Mi Gente (feat. Beyoncé),J Balvin,2017,50,B,minor,B minor,43.4,70.5,104.996
+Thunder,Imagine Dragons,2017,51,C,major,C major,24.1,60.4,167.985
+T-Shirt,Migos,2017,52,Bb,minor,Bb minor,48.6,86.5,139.023
+Rake It Up (feat. Nicki Minaj),Yo Gotti,2017,53,C#,minor,C# minor,53.0,91.0,149.953
+Mercy,Shawn Mendes,2017,54,B,minor,B minor,35.6,55.5,148.128
+Tunnel Vision,Kodak Black,2017,55,B,minor,B minor,23.1,49.7,171.853
+rockstar,Post Malone,2017,56,F,minor,F minor,14.1,58.0,159.786
+In Case You Didn't Know,Brett Young,2017,57,Bb,major,Bb major,43.4,60.7,147.986
+Heathens,Twenty One Pilots,2017,58,E,minor,E minor,54.8,73.2,90.024
+Now Or Never,Halsey,2017,59,F#,minor,F# minor,44.7,67.0,110.03
+Caroline,Aminé,2017,60,F,minor,F minor,70.7,94.1,120.041
+Rolex,Ayo & Teo,2017,61,C#,major,C# major,78.9,80.4,144.946
+DNA.,Kendrick Lamar,2017,62,C#,major,C# major,42.2,63.8,139.913
+Juju On That Beat (TZ Anthem),Zay Hilfigerrr,2017,63,C#,major,C# major,78.0,80.7,160.517
+Swang,Rae Sremmurd,2017,64,G#,major,G# major,16.6,68.1,139.992
+Passionfruit,Drake,2017,65,B,major,B major,36.4,80.9,111.98
+LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,2017,66,A,minor,A minor,41.9,65.8,110.684
+Praying,Kesha,2017,67,Bb,major,Bb major,32.5,56.5,73.483
+goosebumps,Travis Scott,2017,68,G,major,G major,43.0,84.1,130.049
+Cold (feat. Future),Maroon 5,2017,69,A,minor,A minor,52.0,69.9,99.915
+Broccoli (feat. Lil Yachty),DRAM,2017,70,G#,major,G# major,70.8,88.6,145.99
+Slide (feat. Frank Ocean & Migos),Calvin Harris,2017,71,C#,minor,C# minor,51.1,73.6,104.066
+What Ifs (feat. Lauren Alaina),Kane Brown,2017,72,Bb,major,Bb major,68.7,61.2,125.976
+Chained To The Rhythm,Katy Perry,2017,73,C,major,C major,48.5,52.0,95.252
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,2017,74,B,minor,B minor,87.2,89.3,101.018
+All Time Low,Jon Bellion,2017,75,C,major,C major,50.5,61.7,90.246
+Hurricane,Luke Combs,2017,76,Bb,major,Bb major,51.6,46.4,75.975
+Too Good At Goodbyes,Sam Smith,2017,77,F,major,F major,47.6,68.1,91.873
+Young Dumb & Broke,Khalid,2017,78,C#,major,C# major,39.4,79.8,136.949
+Magnolia,Playboi Carti,2017,79,B,minor,B minor,43.8,79.1,162.99
+Love Galore (feat. Travis Scott),SZA,2017,80,C,major,C major,40.9,79.5,135.002
+Drowning (feat. Kodak Black),A Boogie Wit da Hoodie,2017,81,F,minor,F minor,81.4,83.9,129.014
+Starving,Hailee Steinfeld,2017,82,E,major,E major,50.8,72.9,99.989
+Both (feat. Drake),Gucci Mane,2017,83,G,minor,G minor,34.4,85.0,139.976
+What About Us,P!nk,2017,84,C#,major,C# major,18.7,38.6,113.843
+Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,2017,85,C#,major,C# major,78.2,69.6,98.064
+Slippery (feat. Gucci Mane),Migos,2017,86,C#,minor,C# minor,74.1,92.0,141.967
+Sign of the Times,Harry Styles,2017,87,F,major,F major,20.9,51.8,120.019
+Water Under The Bridge,Adele,2017,88,F,minor,F minor,53.7,59.0,94.963
+Malibu,Miley Cyrus,2017,89,G#,major,G# major,34.3,57.3,139.934
+Down,Marian Hill,2017,90,C,minor,C minor,6.61,67.8,113.301
+No Promises (feat. Demi Lovato),Cheat Codes,2017,91,Bb,major,Bb major,58.0,73.9,112.961
+Treat You Better,Shawn Mendes,2017,92,Bb,minor,Bb minor,74.7,44.4,82.695
+I Get the Bag (feat. Migos),Gucci Mane,2017,93,B,major,B major,42.5,89.0,139.948
+Small Town Boy,Dustin Lynch,2017,94,A,major,A major,67.3,55.4,72.997
+Everyday We Lit (feat. PnB Rock),YFN Lucci,2017,95,G,major,G major,58.9,75.8,155.955
+Havana,Camila Cabello,2017,96,G,minor,G minor,41.8,76.8,104.992
+What Lovers Do (feat. SZA),Maroon 5,2017,97,F,minor,F minor,42.0,79.2,109.959
+do re mi,blackbear,2017,98,G#,major,G# major,17.0,74.5,111.002
+Look At Me!,XXXTENTACION,2017,99,C#,major,C# major,34.9,76.3,139.059
+The Fighter,Keith Urban,2017,100,B,minor,B minor,76.1,68.1,132.023
+Love Yourself,Justin Bieber,2016,1,E,major,E major,51.5,60.9,100.418
+Sorry,Justin Bieber,2016,2,C,minor,C minor,41.0,65.4,99.945
+One Dance,Drake,2016,3,C#,major,C# major,37.0,79.2,103.967
+Work,Rihanna,2016,4,B,major,B major,55.8,72.5,91.974
+Stressed Out,Twenty One Pilots,2016,5,E,minor,E minor,64.8,73.4,169.977
+Panda,Desiigner,2016,6,Bb,minor,Bb minor,26.6,68.5,145.245
+Hello,Adele,2016,7,F,minor,F minor,28.9,47.0,157.98
+Don't Let Me Down (feat. Daya),The Chainsmokers,2016,8,B,major,B major,42.2,53.2,159.803
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,2016,9,C,major,C major,70.1,66.7,113.03
+Closer,The Chainsmokers,2016,10,G#,major,G# major,66.1,74.8,95.01
+Cheap Thrills (feat. Sean Paul),Sia,2016,11,F#,minor,F# minor,72.8,59.2,89.972
+7 Years,Lukas Graham,2016,12,Bb,major,Bb major,34.0,76.5,119.992
+Needed Me,Rihanna,2016,13,F,minor,F minor,29.6,67.1,110.898
+My House,Flo Rida,2016,14,G,minor,G minor,74.0,68.8,94.006
+I Took A Pill In Ibiza - Seeb Remix,Mike Posner,2016,15,G,minor,G minor,69.0,66.3,101.965
+Work from Home (feat. Ty Dolla $ign),Fifth Harmony,2016,16,G#,major,G# major,59.3,80.3,105.017
+This Is What You Came For (feat. Rihanna),Calvin Harris,2016,17,A,minor,A minor,46.5,63.0,123.963
+Cake By The Ocean,DNCE,2016,18,E,minor,E minor,89.6,77.4,119.002
+"Me, Myself & I",G-Eazy,2016,19,C,minor,C minor,38.2,75.7,111.996
+Ride,Twenty One Pilots,2016,20,F#,major,F# major,56.6,64.5,74.989
+Heathens,Various Artists,2016,21,E,minor,E minor,55.5,73.7,90.028
+PILLOWTALK,ZAYN,2016,22,B,major,B major,42.9,58.8,124.909
+Stitches,Shawn Mendes,2016,23,C#,major,C# major,76.4,74.6,149.882
+Hotline Bling,Drake,2016,24,D,major,D major,54.8,89.1,134.967
+Cold Water,Major Lazer,2016,25,F#,minor,F# minor,50.1,60.8,92.943
+Send My Love (To Your New Lover),Adele,2016,26,F#,minor,F# minor,56.5,68.8,164.068
+Roses (feat. ROZES),The Chainsmokers,2016,27,E,major,E major,34.3,71.3,100.001
+Treat You Better,Shawn Mendes,2016,28,Bb,minor,Bb minor,74.7,44.4,82.695
+Too Good,Drake,2016,29,G,major,G major,39.3,79.3,117.993
+Low Life (feat. The Weeknd),Future,2016,30,G#,major,G# major,10.2,72.2,143.974
+What Do You Mean?,Justin Bieber,2016,31,F,minor,F minor,79.3,84.5,125.02
+The Hills,The Weeknd,2016,32,C,minor,C minor,13.7,58.5,113.003
+"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",P!nk,2016,33,G,major,G major,49.7,63.2,162.958
+Broccoli (feat. Lil Yachty),DRAM,2016,34,G#,major,G# major,70.8,88.6,145.99
+Don't,Bryson Tiller,2016,35,B,minor,B minor,19.0,76.5,97.001
+Dangerous Woman,Ariana Grande,2016,36,E,minor,E minor,29.0,66.2,133.969
+Jumpman,Drake,2016,37,C#,major,C# major,65.6,85.2,142.079
+"i hate u, i love u (feat. olivia o'brien)",gnash,2016,38,F#,minor,F# minor,18.0,49.2,92.6
+Here,Alessia Cara,2016,39,C,major,C major,33.1,37.6,120.462
+Same Old Love,Selena Gomez,2016,40,B,minor,B minor,43.8,67.2,98.02
+Controlla,Drake,2016,41,Bb,minor,Bb minor,34.9,61.1,92.092
+Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,2016,42,C,major,C major,41.7,63.0,108.038
+One Call Away,Charlie Puth,2016,43,C#,major,C# major,47.0,66.7,91.024
+Let It Go,James Bay,2016,44,C#,major,C# major,26.2,56.4,147.35
+NO,Meghan Trainor,2016,45,C#,minor,C# minor,65.4,55.7,92.135
+Never Forget You,Zara Larsson,2016,46,B,minor,B minor,27.6,58.3,145.992
+Let Me Love You,DJ Snake,2016,47,G#,major,G# major,16.3,64.9,99.988
+Don't Mind,Kent Jones,2016,48,G#,major,G# major,69.0,46.4,158.777
+H.O.L.Y.,Florida Georgia Line,2016,49,G,minor,G minor,56.4,52.3,78.077
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,2016,50,C#,minor,C# minor,35.2,72.8,100.017
+Into You,Ariana Grande,2016,51,A,major,A major,37.2,62.3,107.853
+Gold,Kiiara,2016,52,G#,major,G# major,40.8,60.0,113.049
+Exchange,Bryson Tiller,2016,53,F#,major,F# major,27.4,53.0,160.14
+679 (feat. Remy Boyz),Fetty Wap,2016,54,G,major,G major,60.3,61.8,190.05
+oui,Jeremih,2016,55,F,major,F major,60.4,41.8,78.521
+Hands To Myself,Selena Gomez,2016,56,F,minor,F minor,46.6,81.1,111.016
+2 Phones,Kevin Gates,2016,57,G,minor,G minor,55.4,89.5,121.918
+Starboy,The Weeknd,2016,58,G,major,G major,48.6,67.9,186.003
+For Free,DJ Khaled,2016,59,Bb,minor,Bb minor,49.8,91.6,103.521
+Never Be Like You (feat. Kai),Flume,2016,60,C,major,C major,29.6,44.4,115.058
+In The Night,The Weeknd,2016,61,G,major,G major,53.9,50.5,168.022
+Me Too,Meghan Trainor,2016,62,B,minor,B minor,83.5,93.4,123.829
+Ex's & Oh's,Elle King,2016,63,G,major,G major,46.1,62.7,139.995
+Die A Happy Man,Thomas Rhett,2016,64,D,major,D major,40.0,59.5,166.052
+White Iverson,Post Malone,2016,65,G,major,G major,30.9,67.5,130.098
+Close,Nick Jonas,2016,66,F#,minor,F# minor,40.1,65.3,123.999
+Unsteady,X Ambassadors,2016,67,C,major,C major,19.9,38.9,117.055
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Various Artists,2016,68,A,minor,A minor,73.9,50.2,169.021
+Down In the DM (feat. Nicki Minaj) - Remix,Yo Gotti,2016,69,C#,minor,C# minor,32.3,79.1,152.961
+LUV,Tory Lanez,2016,70,B,minor,B minor,25.2,53.9,190.169
+Sorry,Beyoncé,2016,71,D,major,D major,35.6,77.5,129.988
+Can't Feel My Face,The Weeknd,2016,72,A,minor,A minor,58.3,70.5,107.949
+Hymn for the Weekend - Seeb Remix,Coldplay,2016,73,C,minor,C minor,42.7,56.5,102.034
+Say It,Tory Lanez,2016,74,B,minor,B minor,24.7,54.6,107.331
+Antidote,Travis Scott,2016,75,C#,major,C# major,13.1,71.3,131.05
+Lost Boy,Ruth B.,2016,76,G,major,G major,34.8,71.0,123.994
+Side To Side,Ariana Grande,2016,77,F#,minor,F# minor,61.2,65.0,159.174
+"Sit Still, Look Pretty",Daya,2016,78,D,major,D major,54.3,65.7,181.994
+Wildest Dreams,Taylor Swift,2016,79,G#,major,G# major,46.5,55.0,139.997
+Middle,DJ Snake,2016,80,A,major,A major,22.4,58.3,104.879
+On My Mind,Ellie Goulding,2016,81,C,major,C major,74.3,70.2,154.911
+Pop Style,Drake,2016,82,E,minor,E minor,6.44,78.9,133.114
+When We Were Young,Adele,2016,83,D#,major,D# major,26.4,37.7,144.464
+Hide Away,Daya,2016,84,B,minor,B minor,46.6,88.5,95.011
+Lean On,Major Lazer,2016,85,G,minor,G minor,27.4,72.3,98.007
+I Know What You Did Last Summer,Shawn Mendes,2016,86,A,minor,A minor,74.5,69.5,113.965
+All The Way Up,Fat Joe,2016,87,Bb,minor,Bb minor,39.3,53.6,117.139
+Watch Me (Whip / Nae Nae),Silentó,2016,88,G#,major,G# major,96.2,82.1,140.01
+Back To Sleep,Chris Brown,2016,89,A,minor,A minor,70.2,64.0,92.936
+No Limit (feat. Young Thug),Usher,2016,90,Bb,minor,Bb minor,28.2,71.7,127.047
+Cut It (feat. Young Dolph),O.T. Genasis,2016,91,G,major,G major,23.1,87.5,130.0
+Really Really,Kevin Gates,2016,92,C,major,C major,27.8,76.2,118.97
+All In My Head (Flex) (feat. Fetty Wap),Fifth Harmony,2016,93,C,minor,C minor,75.5,68.9,95.04
+Starving,Hailee Steinfeld,2016,94,E,major,E major,50.8,72.9,99.989
+Adventure of a Lifetime,Coldplay,2016,95,G,major,G major,52.9,63.8,111.995
+Humble And Kind,Tim McGraw,2016,96,B,major,B major,14.8,47.6,151.478
+Wicked,Future,2016,97,B,minor,B minor,20.5,71.8,157.97
+Tiimmy Turner,Desiigner,2016,98,F#,major,F# major,30.4,60.3,122.803
+See You Again (feat. Charlie Puth),Various Artists,2016,99,Bb,major,Bb major,28.3,68.9,80.025
+Perfect,One Direction,2016,100,D,major,D major,39.6,64.7,99.933
+Uptown Funk (feat. Bruno Mars),Mark Ronson,2015,1,C,major,C major,92.8,85.6,114.988
+Thinking out Loud,Ed Sheeran,2015,2,D,major,D major,59.1,78.1,78.998
+See You Again (feat. Charlie Puth),Various Artists,2015,3,Bb,major,Bb major,28.3,68.9,80.025
+Trap Queen,Fetty Wap,2015,4,G,major,G major,81.7,74.6,148.075
+Sugar,Maroon 5,2015,5,C#,major,C# major,88.4,74.8,120.076
+Shut Up and Dance,WALK THE MOON,2015,6,C#,major,C# major,61.9,57.8,128.038
+Blank Space,Taylor Swift,2015,7,F,major,F major,57.0,76.0,95.997
+Watch Me (Whip / Nae Nae),Silentó,2015,8,G#,major,G# major,96.2,82.1,140.01
+"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,2015,9,D,minor,D minor,43.6,66.0,119.875
+The Hills,The Weeknd,2015,10,C,minor,C minor,13.7,58.5,113.003
+Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,2015,11,E,major,E major,41.0,82.7,118.04
+Can't Feel My Face,The Weeknd,2015,12,A,minor,A minor,58.3,70.5,107.949
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Various Artists,2015,13,F,minor,F minor,27.2,25.8,189.558
+Take Me to Church,Hozier,2015,14,E,minor,E minor,43.7,56.6,128.945
+Bad Blood,Taylor Swift,2015,15,B,minor,B minor,22.1,65.4,170.16
+Lean On,Major Lazer,2015,16,G,minor,G minor,27.4,72.3,98.007
+Want to Want Me,Jason Derulo,2015,17,C,minor,C minor,65.6,77.5,114.025
+Shake It Off,Taylor Swift,2015,18,G,major,G major,94.2,64.7,160.078
+Where Are Ü Now (with Justin Bieber),Jack Ü,2015,19,E,minor,E minor,19.7,43.2,139.432
+Fight Song,Rachel Platten,2015,20,G,major,G major,35.8,57.1,175.962
+679 (feat. Remy Boyz),Fetty Wap,2015,21,G,major,G major,60.3,61.8,190.05
+Lips Are Movin,Meghan Trainor,2015,22,G,major,G major,95.0,77.5,139.091
+Worth It (feat. Kid Ink),Fifth Harmony,2015,23,G#,major,G# major,59.4,88.4,99.987
+Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,2015,24,Bb,minor,Bb minor,70.1,73.3,97.448
+"Honey, I'm Good.",Andy Grammer,2015,25,A,major,A major,59.5,75.2,122.014
+I'm Not The Only One,Sam Smith,2015,26,F,major,F major,49.3,67.7,82.001
+Good For You,Selena Gomez,2015,27,F,minor,F minor,21.2,60.5,88.967
+All About That Bass,Meghan Trainor,2015,28,A,major,A major,96.1,80.7,134.052
+Style,Taylor Swift,2015,29,G,major,G major,48.7,58.8,94.933
+Hotline Bling,Drake,2015,30,D,major,D major,54.8,89.1,134.967
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,2015,31,A,major,A major,52.5,59.6,85.979
+GDFR (feat. Sage the Gemini & Lookas),Flo Rida,2015,32,F,major,F major,69.0,65.7,145.889
+What Do You Mean?,Justin Bieber,2015,33,F,minor,F minor,79.3,84.5,125.02
+Photograph,Ed Sheeran,2015,34,E,major,E major,20.1,61.4,107.989
+Hello,Adele,2015,35,F,minor,F minor,28.9,47.0,157.98
+Stitches,Shawn Mendes,2015,36,C#,major,C# major,76.4,74.6,149.882
+Talking Body,Tove Lo,2015,37,E,minor,E minor,11.4,73.6,119.999
+Jealous,Nick Jonas,2015,38,B,minor,B minor,38.0,70.0,93.012
+Time of Our Lives,Pitbull,2015,39,C#,major,C# major,72.3,72.0,124.043
+Locked Away (feat. Adam Levine),R. City,2015,40,C#,major,C# major,57.5,50.8,121.928
+Somebody,Natalie La Rose,2015,41,C,major,C major,73.5,83.0,104.99
+FourFiveSeconds,Rihanna,2015,42,D,major,D major,35.4,58.2,205.846
+Centuries,Fall Out Boy,2015,43,E,minor,E minor,56.0,39.4,176.044
+My Way (feat. Monty),Fetty Wap,2015,44,F#,major,F# major,53.7,74.8,128.077
+Take Your Time,Sam Hunt,2015,45,B,major,B major,48.3,55.8,158.031
+Animals,Maroon 5,2015,46,E,minor,E minor,32.8,27.9,189.868
+I Don't Fuck With You,Big Sean,2015,47,C#,major,C# major,41.7,82.0,97.98
+Bitch Better Have My Money,Rihanna,2015,48,C#,major,C# major,39.5,78.1,102.99
+"Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,2015,49,F#,minor,F# minor,88.3,67.6,163.993
+Nasty Freestyle,T-Wayne,2015,50,B,major,B major,41.2,77.9,135.051
+Only,Nicki Minaj,2015,51,G#,minor,G# minor,25.7,66.8,120.056
+Elastic Heart,Sia,2015,52,A,major,A major,49.9,42.1,130.075
+Cool for the Summer,Demi Lovato,2015,53,F,minor,F minor,33.6,58.3,114.06
+Renegades,X Ambassadors,2015,54,D,major,D major,52.8,52.6,90.052
+I Don't Mind (feat. Juicy J),Usher,2015,55,E,major,E major,45.7,87.0,112.974
+Love Me Harder,Ariana Grande,2015,56,C#,minor,C# minor,24.0,47.2,98.992
+Wildest Dreams,Taylor Swift,2015,57,G#,major,G# major,46.5,55.0,139.997
+Stay With Me,Sam Smith,2015,58,C,major,C major,18.4,41.8,84.094
+You Know You Like It,DJ Snake,2015,59,F,minor,F minor,24.7,40.7,196.093
+Uma Thurman,Fall Out Boy,2015,60,E,minor,E minor,68.7,62.2,149.962
+7/11,Beyoncé,2015,61,A,minor,A minor,56.0,74.7,136.024
+The Heart Wants What It Wants,Selena Gomez,2015,62,G,minor,G minor,62.1,61.6,83.066
+Girl Crush,Little Big Town,2015,63,C,major,C major,35.5,50.0,173.788
+Slow Motion,Trey Songz,2015,64,G,minor,G minor,29.1,73.3,94.947
+Drag Me Down,One Direction,2015,65,C,minor,C minor,60.6,72.3,138.098
+Truffle Butter,Nicki Minaj,2015,66,D,major,D major,52.2,89.0,105.099
+One Last Time,Ariana Grande,2015,67,G#,major,G# major,10.4,62.8,125.026
+Chains,Nick Jonas,2015,68,C,minor,C minor,12.1,58.9,76.006
+All Eyes on You (feat. Chris Brown & Nicki Minaj),Meek Mill,2015,69,B,minor,B minor,25.1,58.9,77.521
+No Type,Rae Sremmurd,2015,70,F#,major,F# major,23.9,89.1,125.01
+Riptide,Vance Joy,2015,71,C#,major,C# major,51.0,48.4,101.654
+Classic Man (feat. Roman GianArthur),Jidenna,2015,72,G#,major,G# major,58.5,79.0,94.072
+Ex's & Oh's,Elle King,2015,73,G,major,G major,46.1,62.7,139.995
+Dear Future Husband,Meghan Trainor,2015,74,C#,major,C# major,83.2,65.5,79.427
+Marvin Gaye,Charlie Puth,2015,75,C#,minor,C# minor,82.9,79.2,110.025
+Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,2015,76,C,major,C major,41.7,63.0,108.038
+Habits (Stay High),Tove Lo,2015,77,F,major,F major,34.7,72.9,110.02
+The Hanging Tree,James Newton Howard,2015,78,A,minor,A minor,15.5,33.8,100.648
+CoCo,O.T. Genasis,2015,79,G#,major,G# major,17.8,88.6,119.906
+Bang Bang,Ariana Grande,2015,80,C,minor,C minor,70.0,70.3,149.974
+Lay Me Down,Sam Smith,2015,81,E,major,E major,17.2,41.7,119.156
+Tuesday (feat. Drake),ILOVEMAKONNEN,2015,82,C,major,C major,47.2,77.0,140.163
+Hit the Quan - Original Version,iLoveMemphis,2015,83,G#,major,G# major,62.5,74.1,160.018
+"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,2015,84,C#,major,C# major,70.7,82.8,109.725
+House Party,Sam Hunt,2015,85,G#,major,G# major,85.9,74.7,103.966
+Ayo,Chris Brown,2015,86,F#,major,F# major,68.2,82.3,98.031
+Kick The Dust Up,Luke Bryan,2015,87,C#,major,C# major,81.8,59.7,172.064
+Blessings,Big Sean,2015,88,C#,major,C# major,15.0,79.0,118.896
+Budapest,George Ezra,2015,89,F,major,F major,40.6,71.4,127.787
+Chandelier,Sia,2015,90,C#,major,C# major,57.2,39.9,117.089
+Heartbeat Song,Kelly Clarkson,2015,91,F#,major,F# major,47.9,49.0,149.109
+Don't,Ed Sheeran,2015,92,C#,major,C# major,84.9,80.6,95.049
+Ghost,Ella Henderson,2015,93,A,major,A major,48.5,68.2,104.987
+Here,Alessia Cara,2015,94,C,major,C major,33.1,37.6,120.462
+Waves - Robin Schulz Radio Edit,Mr. Probz,2015,95,F,minor,F minor,45.0,82.9,119.993
+El Perdón - Forgiveness,Nicky Jam,2015,96,G#,major,G# major,65.6,73.6,90.013
+She Knows,Ne-Yo,2015,97,G#,minor,G# minor,57.4,70.6,139.982
+Night Changes,One Direction,2015,98,G#,major,G# major,37.0,67.2,120.001
+Back To Back,Drake,2015,99,C#,minor,C# minor,38.2,89.3,86.976
+How Deep Is Your Love,Calvin Harris,2015,100,B,minor,B minor,33.6,73.8,122.003
+"Happy - From ""Despicable Me 2""",Pharrell Williams,2014,1,F,minor,F minor,96.2,64.7,160.019
+Dark Horse,Katy Perry,2014,2,F#,major,F# major,35.3,64.5,131.931
+All of Me,John Legend,2014,3,G#,major,G# major,33.1,42.2,119.93
+Fancy,Iggy Azalea,2014,4,Bb,minor,Bb minor,37.7,91.2,94.981
+Counting Stars,OneRepublic,2014,5,C#,minor,C# minor,47.7,66.4,122.017
+Talk Dirty (feat. 2 Chainz),Jason Derulo,2014,6,F#,major,F# major,75.9,76.0,100.315
+Rude,MAGIC!,2014,7,C#,major,C# major,89.9,74.3,144.062
+All About That Bass,Meghan Trainor,2014,8,A,major,A major,96.1,80.7,134.052
+Problem,Ariana Grande,2014,9,C#,minor,C# minor,62.5,66.0,103.008
+Stay With Me,Sam Smith,2014,10,C,major,C major,18.4,41.8,84.094
+Timber (feat. Ke$ha),Pitbull,2014,11,B,major,B major,82.5,58.7,129.972
+Pompeii,Bastille,2014,12,A,major,A major,57.1,67.9,127.435
+Shake It Off,Taylor Swift,2014,13,G,major,G major,94.2,64.7,160.078
+Am I Wrong,Nico & Vinz,2014,14,G#,major,G# major,76.0,72.5,119.939
+Turn Down for What,DJ Snake,2014,15,C#,minor,C# minor,8.15,81.8,100.014
+The Monster,Eminem,2014,16,C#,minor,C# minor,62.4,78.1,110.049
+Say Something,A Great Big World,2014,17,D,major,D major,7.65,40.7,141.284
+Team,Lorde,2014,18,F#,major,F# major,41.6,69.0,99.961
+Let Her Go,Passenger,2014,19,G,major,G major,24.4,47.9,74.897
+Royals,Lorde,2014,20,G,major,G major,33.7,67.4,84.878
+"Let It Go - From ""Frozen""/Soundtrack Version",Various Artists,2014,21,G#,major,G# major,36.9,54.1,136.956
+Wake Me Up,Avicii,2014,22,D,major,D major,57.7,51.6,124.118
+Demons,Imagine Dragons,2014,23,D#,major,D# major,42.8,50.5,89.938
+Story of My Life,One Direction,2014,24,D#,major,D# major,29.3,60.6,120.967
+Chandelier,Sia,2014,25,C#,major,C# major,57.2,39.9,117.089
+Black Widow,Iggy Azalea,2014,26,B,major,B major,51.9,74.3,163.99
+Bang Bang,Ariana Grande,2014,27,C,minor,C minor,70.0,70.3,149.974
+Latch,Disclosure,2014,28,C#,major,C# major,54.4,72.9,121.986
+Maps,Maroon 5,2014,29,C#,minor,C# minor,87.9,74.2,120.032
+Loyal (feat. Lil Wayne & Tyga),Chris Brown,2014,30,Bb,minor,Bb minor,61.6,84.1,99.059
+Best Day Of My Life,American Authors,2014,31,D,major,D major,53.8,67.3,100.012
+Habits (Stay High),Tove Lo,2014,32,F,major,F major,34.7,72.9,110.02
+Summer,Calvin Harris,2014,33,E,minor,E minor,74.3,59.6,127.949
+Boom Clap,Charli XCX,2014,34,E,major,E major,57.6,65.9,91.999
+Drunk in Love (feat. Jay-Z),Beyoncé,2014,35,F,minor,F minor,40.1,58.9,140.03
+Anaconda,Nicki Minaj,2014,36,D,major,D major,64.7,96.3,129.99
+Break Free,Ariana Grande,2014,37,G,minor,G minor,28.4,68.7,129.956
+Bailando - Spanish Version,Enrique Iglesias,2014,38,G,major,G major,96.0,71.9,90.936
+Burn,Ellie Goulding,2014,39,C#,major,C# major,32.9,55.9,87.016
+Wiggle (feat. Snoop Dogg),Jason Derulo,2014,40,A,minor,A minor,72.1,69.7,81.946
+Rather Be (feat. Jess Glynne),Clean Bandit,2014,41,B,major,B major,54.9,79.9,120.97
+Don't Tell 'Em,Jeremih,2014,42,D,major,D major,38.6,85.6,98.052
+Show Me (feat. Chris Brown),Kid Ink,2014,43,G,major,G major,66.5,71.1,98.098
+Wrecking Ball,Miley Cyrus,2014,44,F,major,F major,34.9,53.0,119.964
+Not a Bad Thing,Justin Timberlake,2014,45,D,major,D major,44.4,33.7,84.729
+Roar,Katy Perry,2014,46,G,minor,G minor,44.0,66.7,89.972
+Ain't It Fun,Paramore,2014,47,A,major,A major,67.3,61.0,104.031
+The Man,Aloe Blacc,2014,48,B,minor,B minor,48.8,30.8,81.853
+This Is How We Roll,Florida Georgia Line,2014,49,G#,major,G# major,72.3,55.5,132.085
+Classic,MKTO,2014,50,C#,major,C# major,80.0,71.3,102.078
+A Sky Full of Stars,Coldplay,2014,51,F#,major,F# major,16.0,54.5,124.973
+Don't,Ed Sheeran,2014,52,C#,major,C# major,84.9,80.6,95.049
+Na Na,Trey Songz,2014,53,A,minor,A minor,23.5,67.0,96.975
+Hot N*gga,Bobby Shmurda,2014,54,A,major,A major,18.0,79.4,167.879
+"Hold On, We're Going Home",Drake,2014,55,F#,minor,F# minor,32.0,77.0,100.001
+Sing,Ed Sheeran,2014,56,G#,minor,G# minor,93.9,81.8,119.988
+Radioactive,Imagine Dragons,2014,57,A,major,A major,23.6,44.8,136.245
+My Nigga,YG,2014,58,Bb,minor,Bb minor,78.5,66.5,171.255
+Cool Kids,Echosmith,2014,59,G#,major,G# major,78.6,71.9,130.027
+Hey Brother,Avicii,2014,60,G,minor,G minor,45.8,54.5,125.014
+Trumpets,Jason Derulo,2014,61,C,major,C major,64.0,62.7,81.897
+Animals,Maroon 5,2014,62,E,minor,E minor,32.8,27.9,189.868
+Burnin' It Down,Jason Aldean,2014,63,F#,major,F# major,64.0,68.1,135.939
+Play It Again,Luke Bryan,2014,64,B,major,B major,59.5,50.6,143.935
+2 On (feat. ScHoolboy Q),Tinashe,2014,65,F#,minor,F# minor,39.0,73.8,100.964
+Dirt,Florida Georgia Line,2014,66,D,major,D major,59.2,54.7,121.973
+Love Runs Out,OneRepublic,2014,67,G,major,G major,73.8,71.9,120.022
+Bottoms Up,Brantley Gilbert,2014,68,G,major,G major,54.5,47.4,170.006
+Shower,Becky G,2014,69,D,major,D major,12.1,69.9,119.987
+Me And My Broken Heart,Rixton,2014,70,F,minor,F minor,54.0,54.4,174.08
+Animals,Martin Garrix,2014,71,C#,major,C# major,3.76,67.5,128.007
+Lifestyle,Rich Gang,2014,72,C#,major,C# major,47.1,54.6,87.666
+American Kids,Kenny Chesney,2014,73,G,major,G major,86.7,73.3,170.097
+Brave,Sara Bareilles,2014,74,Bb,minor,Bb minor,75.8,55.1,185.063
+Sweater Weather,The Neighbourhood,2014,75,Bb,major,Bb major,39.8,61.2,124.053
+Leave The Night On,Sam Hunt,2014,76,A,major,A major,83.8,51.4,171.96
+New Flame (feat. Usher & Rick Ross),Chris Brown,2014,77,C#,major,C# major,44.6,70.2,141.967
+Love Never Felt So Good,Michael Jackson,2014,78,G,minor,G minor,71.2,77.5,117.513
+Drunk On A Plane,Dierks Bentley,2014,79,A,major,A major,66.0,42.3,205.972
+Birthday,Katy Perry,2014,80,B,major,B major,84.3,71.9,125.98
+Bartender,Lady Antebellum,2014,81,B,minor,B minor,64.5,63.0,101.005
+La La La,Naughty Boy,2014,82,F#,minor,F# minor,25.4,75.4,124.988
+Blurred Lines,Robin Thicke,2014,83,G,major,G major,88.1,86.1,120.0
+Do What U Want,Lady Gaga,2014,84,A,major,A major,56.7,79.7,97.476
+Can't Remember to Forget You (feat. Rihanna),Shakira,2014,85,B,minor,B minor,82.4,69.4,137.968
+Amnesia,5 Seconds of Summer,2014,86,D,major,D major,10.8,57.2,101.593
+No Mediocre (feat. Iggy Azalea),T.I.,2014,87,C#,major,C# major,17.8,78.0,95.486
+Come with Me Now,KONGOS,2014,88,Bb,minor,Bb minor,72.8,65.4,103.987
+Believe Me,Lil Wayne,2014,89,Bb,minor,Bb minor,19.6,84.4,91.935
+23,Mike WiLL Made-It,2014,90,A,major,A major,31.9,85.9,140.005
+Beachin',Jake Owen,2014,91,F#,major,F# major,70.9,52.7,181.964
+"White Walls (feat. ScHoolboy Q, Hollis)",Macklemore & Ryan Lewis,2014,92,G,major,G major,82.7,76.7,116.491
+She Looks So Perfect,5 Seconds of Summer,2014,93,A,major,A major,44.1,49.4,160.025
+Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,2014,94,G#,major,G# major,46.1,59.6,127.961
+Partition,Beyoncé,2014,95,B,minor,B minor,17.4,41.2,185.571
+Studio,ScHoolboy Q,2014,96,G#,minor,G# minor,58.0,70.9,133.922
+0 To 100 / The Catch Up,Drake,2014,97,B,minor,B minor,50.4,55.9,176.618
+I Don't Dance,Lee Brice,2014,98,C#,major,C# major,19.0,58.7,92.036
+Somethin' Bad (with Carrie Underwood) - (Duet with Carrie Underwood),Miranda Lambert,2014,99,A,major,A major,48.4,68.0,90.076
+Adore You,Miley Cyrus,2014,100,C,major,C major,20.1,58.3,119.759
+Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,2013,1,F#,minor,F# minor,66.2,78.1,94.992
+Blurred Lines,Robin Thicke,2013,2,G,major,G major,88.1,86.1,120.0
+Radioactive,Imagine Dragons,2013,3,A,major,A major,23.6,44.8,136.245
+Harlem Shake,Baauer,2013,4,C,major,C major,28.2,45.2,137.825
+Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,2013,5,D,major,D major,88.0,63.4,146.094
+Mirrors - Radio Edit,Justin Timberlake,2013,6,G#,major,G# major,64.6,57.8,76.999
+Just Give Me a Reason (feat. Nate Ruess),P!nk,2013,7,D,major,D major,44.1,77.8,95.002
+When I Was Your Man,Bruno Mars,2013,8,C,major,C major,38.7,61.2,72.795
+Cruise - Remix,Florida Georgia Line,2013,9,C,minor,C minor,68.0,52.8,149.031
+Roar,Katy Perry,2013,10,G,minor,G minor,44.0,66.7,89.972
+Locked out of Heaven,Bruno Mars,2013,11,F,major,F major,86.7,72.6,143.994
+Ho Hey,The Lumineers,2013,12,C,major,C major,35.9,68.3,79.931
+Stay,Rihanna,2013,13,A,minor,A minor,12.5,62.1,111.893
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,2013,14,F#,minor,F# minor,86.2,79.4,116.047
+Royals,Lorde,2013,15,G,major,G major,33.7,67.4,84.878
+I Knew You Were Trouble.,Taylor Swift,2013,16,D#,minor,D# minor,67.9,62.2,77.019
+We Can't Stop,Miley Cyrus,2013,17,C#,minor,C# minor,48.4,61.3,80.003
+Wrecking Ball,Miley Cyrus,2013,18,F,major,F major,34.9,53.0,119.964
+Wake Me Up,Avicii,2013,19,D,major,D major,57.7,51.6,124.118
+Suit & Tie (feat. Jay-Z),Justin Timberlake,2013,20,B,minor,B minor,35.7,79.5,101.985
+Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,Various Artists,2013,21,C,major,C major,79.0,87.8,129.953
+Holy Grail,JAY-Z,2013,22,D,minor,D minor,15.6,67.6,145.082
+Scream & Shout,will.i.am,2013,23,F,major,F major,50.1,77.2,130.033
+Clarity,Zedd,2013,24,G#,major,G# major,17.6,50.9,128.0
+Sail,AWOLNATION,2013,25,C#,major,C# major,24.3,82.5,119.038
+Don't You Worry Child - Radio Edit,Swedish House Mafia,2013,26,B,minor,B minor,43.8,61.2,129.042
+Diamonds,Rihanna,2013,27,B,minor,B minor,40.5,55.4,91.993
+I Love It (feat. Charli XCX) - Original Version,Icona Pop,2013,28,G#,major,G# major,83.8,71.4,125.927
+Safe And Sound,Capital Cities,2013,29,C,major,C major,76.6,65.5,117.956
+Treasure,Bruno Mars,2013,30,F,minor,F minor,93.7,87.4,116.017
+The Way,Ariana Grande,2013,31,F,minor,F minor,86.2,64.5,82.324
+Started From the Bottom,Drake,2013,32,G#,major,G# major,51.5,79.2,86.32
+Come & Get It,Selena Gomez,2013,33,G,minor,G minor,57.6,54.8,80.047
+"Hold On, We're Going Home",Drake,2013,34,F#,minor,F# minor,32.0,77.0,100.001
+Daylight,Maroon 5,2013,35,D,major,D major,35.2,66.2,119.977
+Feel This Moment (feat. Christina Aguilera),Pitbull,2013,36,G,major,G major,54.2,67.3,135.956
+Applause,Lady Gaga,2013,37,G,minor,G minor,73.3,66.8,139.938
+One More Night,Maroon 5,2013,38,F,minor,F minor,61.3,71.8,92.998
+Love Me,Lil Wayne,2013,39,G#,minor,G# minor,46.4,67.4,124.952
+My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,2013,40,A,minor,A minor,56.7,55.8,151.99
+"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",A$AP Rocky,2013,41,C#,major,C# major,66.0,85.2,95.967
+Beauty And A Beat,Justin Bieber,2013,42,C,major,C major,53.4,60.1,128.002
+Same Love (feat. Mary Lambert),Macklemore & Ryan Lewis,2013,43,G#,major,G# major,30.8,56.0,84.899
+Sweet Nothing (feat. Florence Welch),Calvin Harris,2013,44,G#,minor,G# minor,58.2,57.3,127.934
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,2013,45,C#,minor,C# minor,11.0,57.2,126.052
+Home,Phillip Phillips,2013,46,C,major,C major,32.2,60.6,121.04
+It's Time,Imagine Dragons,2013,47,D,major,D major,86.0,65.6,105.009
+Power Trip (feat. Miguel),J. Cole,2013,48,C#,major,C# major,40.6,63.0,99.948
+Girl on Fire,Alicia Keys,2013,49,A,major,A major,14.4,48.2,92.494
+Heart Attack,Demi Lovato,2013,50,G#,major,G# major,52.6,49.9,173.979
+Love Somebody,Maroon 5,2013,51,C#,major,C# major,42.3,67.5,120.015
+I Will Wait,Mumford & Sons,2013,52,C#,major,C# major,44.7,48.0,131.127
+Try,P!nk,2013,53,D,major,D major,56.7,67.9,104.011
+Wagon Wheel,Darius Rucker,2013,54,A,major,A major,57.4,53.7,148.096
+Gangnam Style (강남스타일),PSY,2013,55,B,minor,B minor,74.9,72.7,132.067
+I Need Your Love (feat. Ellie Goulding),Calvin Harris,2013,56,G#,major,G# major,58.0,69.5,124.989
+Die Young,Kesha,2013,57,C#,minor,C# minor,80.1,71.1,128.001
+Some Nights,fun.,2013,58,C,major,C major,39.2,67.2,107.938
+Bad (feat. Tiara Thomas),Wale,2013,59,F#,minor,F# minor,28.0,86.7,113.969
+Boys 'Round Here (feat. Pistol Annies & Friends),Blake Shelton,2013,60,D,major,D major,64.9,61.1,169.895
+"Gone, Gone, Gone",Phillip Phillips,2013,61,F#,major,F# major,50.1,66.4,118.002
+Demons,Imagine Dragons,2013,62,D#,major,D# major,42.8,50.5,89.938
+Counting Stars,OneRepublic,2013,63,C#,minor,C# minor,47.7,66.4,122.017
+I Cry,Flo Rida,2013,64,E,minor,E minor,76.3,69.3,126.035
+Little Talks,Of Monsters and Men,2013,65,C#,major,C# major,42.1,44.5,102.878
+The Other Side,Jason Derulo,2013,66,A,major,A major,51.7,56.1,127.923
+Berzerk,Eminem,2013,67,B,minor,B minor,68.4,73.9,95.084
+Catch My Breath,Kelly Clarkson,2013,68,A,major,A major,51.7,69.1,124.021
+Crash My Party,Luke Bryan,2013,69,G,major,G major,41.4,52.6,144.032
+Pour It Up,Rihanna,2013,70,D,major,D major,39.0,78.5,134.002
+22,Taylor Swift,2013,71,G,major,G major,66.8,65.8,104.007
+I Want Crazy - Encore,Hunter Hayes,2013,72,G#,major,G# major,55.8,56.2,103.029
+The Fox (What Does the Fox Say?),Ylvis,2013,73,F#,major,F# major,54.6,70.3,128.008
+Best Song Ever,One Direction,2013,74,C#,major,C# major,56.1,65.4,118.499
+The A Team,Ed Sheeran,2013,75,A,major,A major,40.7,64.2,84.996
+Carry On,fun.,2013,76,F,major,F major,36.5,38.8,145.434
+Highway Don't Care,Tim McGraw,2013,77,D,major,D major,49.5,47.0,158.061
+That's My Kind Of Night,Luke Bryan,2013,78,G,major,G major,87.5,66.1,109.995
+Swimming Pools (Drank),Kendrick Lamar,2013,79,G#,major,G# major,18.9,57.7,74.236
+Sure Be Cool If You Did,Blake Shelton,2013,80,B,major,B major,58.2,57.6,136.802
+#Beautiful,Mariah Carey,2013,81,E,major,E major,42.5,67.6,107.03
+Troublemaker (feat. Flo Rida),Olly Murs,2013,82,C,minor,C minor,96.7,76.2,105.989
+Body Party,Ciara,2013,83,D,major,D major,10.6,58.0,134.023
+Adorn,Miguel,2013,84,B,minor,B minor,22.0,61.9,179.084
+Hall of Fame (feat. will.i.am),The Script,2013,85,Bb,major,Bb major,63.0,42.1,84.803
+Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,2013,86,F,major,F major,24.8,65.8,124.91
+"U.O.E.N.O. (feat. Future, Rick Ross)",Rocko,2013,87,Bb,minor,Bb minor,67.0,42.0,185.986
+Next To Me,Emeli Sandé,2013,88,G,minor,G minor,39.1,67.4,94.995
+Mama's Broken Heart,Miranda Lambert,2013,89,E,minor,E minor,74.8,76.8,111.989
+It Goes Like This,Thomas Rhett,2013,90,B,major,B major,50.6,54.3,168.056
+Bugatti,Ace Hood,2013,91,C#,major,C# major,6.63,60.0,130.205
+Wanted,Hunter Hayes,2013,92,C,major,C major,30.0,42.1,169.784
+Downtown,Lady Antebellum,2013,93,A,major,A major,96.0,53.2,169.961
+Get Your Shine On,Florida Georgia Line,2013,94,C,major,C major,60.7,49.7,96.991
+#thatPOWER,will.i.am,2013,95,F#,minor,F# minor,40.3,79.7,128.0
+Brave,Sara Bareilles,2013,96,Bb,minor,Bb minor,75.8,55.1,185.063
+Let Her Go,Passenger,2013,97,G,major,G major,24.4,47.9,74.897
+Runnin' Outta Moonlight,Randy Houser,2013,98,D,major,D major,76.9,52.6,172.024
+I'm Different,2 Chainz,2013,99,Bb,major,Bb major,70.4,93.6,97.524
+Still into You,Paramore,2013,100,F,major,F major,76.5,60.2,136.01
+Somebody That I Used To Know,Gotye,2012,1,C,major,C major,72.0,86.4,129.062
+Call Me Maybe,Carly Rae Jepsen,2012,2,G,major,G major,66.0,78.3,120.021
+We Are Young (feat. Janelle Monáe),fun.,2012,3,Bb,major,Bb major,73.5,37.8,184.086
+Payphone,Maroon 5,2012,4,E,major,E major,52.3,73.9,110.028
+Lights - Single Version,Ellie Goulding,2012,5,G#,minor,G# minor,80.9,68.3,120.013
+Glad You Came,The Wanted,2012,6,G,minor,G minor,43.1,61.0,126.889
+Stronger (What Doesn't Kill You),Kelly Clarkson,2012,7,C,major,C major,68.4,56.2,116.044
+We Found Love,Rihanna,2012,8,C#,major,C# major,60.0,73.5,127.985
+Starships,Nicki Minaj,2012,9,B,minor,B minor,75.1,74.7,125.008
+What Makes You Beautiful,One Direction,2012,10,E,major,E major,87.3,72.9,125.011
+Wild Ones (feat. Sia),Flo Rida,2012,11,F,minor,F minor,43.7,60.8,127.075
+Set Fire to the Rain,Adele,2012,12,D,minor,D minor,46.6,61.0,108.003
+Sexy And I Know It,LMFAO,2012,13,G,major,G major,79.5,70.7,130.021
+Some Nights,fun.,2012,14,C,major,C major,39.2,67.2,107.938
+Wide Awake,Katy Perry,2012,15,F,major,F major,57.5,51.4,159.814
+Good Feeling,Flo Rida,2012,16,C#,minor,C# minor,68.4,70.6,128.011
+Whistle,Flo Rida,2012,17,C,major,C major,73.9,74.7,103.976
+One More Night,Maroon 5,2012,18,F,minor,F minor,61.3,71.8,92.998
+Drive By,Train,2012,19,C#,minor,C# minor,72.1,76.5,122.028
+The Motto,Drake,2012,20,C#,major,C# major,35.3,77.4,201.843
+Where Have You Been,Rihanna,2012,21,C,minor,C minor,44.4,71.9,127.963
+Everybody Talks,Neon Trees,2012,22,G#,major,G# major,72.5,47.1,154.961
+Take Care,Drake,2012,23,C,minor,C minor,29.9,62.9,121.845
+Titanium (feat. Sia),David Guetta,2012,24,C,minor,C minor,30.1,60.4,126.062
+I Won't Give Up,Jason Mraz,2012,25,E,major,E major,14.2,58.5,136.703
+It Will Rain,Bruno Mars,2012,26,D,major,D major,43.4,57.4,149.981
+Mercy,Kanye West,2012,27,F#,minor,F# minor,42.4,56.3,140.001
+Boyfriend,Justin Bieber,2012,28,Bb,minor,Bb minor,33.2,71.7,96.976
+Party Rock Anthem,LMFAO,2012,29,F,minor,F minor,35.9,75.0,129.993
+Too Close,Alex Clare,2012,30,B,minor,B minor,28.6,58.4,126.043
+Part Of Me,Katy Perry,2012,31,F,major,F major,76.9,67.8,130.028
+"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,2012,32,C,major,C major,53.1,71.5,95.078
+We Are Never Ever Getting Back Together,Taylor Swift,2012,33,G,major,G major,75.0,62.8,85.984
+As Long As You Love Me,Justin Bieber,2012,34,C,minor,C minor,61.3,57.1,139.691
+Turn Me On (feat. Nicki Minaj),David Guetta,2012,35,G#,major,G# major,41.2,70.4,127.96
+Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,2012,36,B,minor,B minor,62.0,72.2,128.047
+Blow Me (One Last Kiss),P!nk,2012,37,G,major,G major,73.0,59.7,113.987
+Good Time,Owl City,2012,38,D#,major,D# major,68.1,56.0,126.053
+Give Your Heart a Break,Demi Lovato,2012,39,F#,major,F# major,56.9,65.1,123.008
+Ni**as In Paris,JAY-Z,2012,40,C#,major,C# major,76.9,78.8,140.027
+The One That Got Away,Katy Perry,2012,41,C#,minor,C# minor,87.6,69.1,133.971
+Feel So Close - Radio Edit,Calvin Harris,2012,42,G,major,G major,91.9,70.7,127.937
+Someone Like You,Adele,2012,43,A,major,A major,28.5,55.9,135.109
+Scream,Usher,2012,44,G,minor,G minor,56.9,61.6,127.992
+Rack City,Tyga,2012,45,C#,major,C# major,27.3,92.9,98.986
+Domino,Jessie J,2012,46,G,major,G major,79.3,75.7,126.977
+Gangnam Style (강남스타일),PSY,2012,47,B,minor,B minor,74.9,72.7,132.067
+International Love (feat. Chris Brown),Pitbull,2012,48,C,minor,C minor,64.8,66.9,120.045
+Home,Phillip Phillips,2012,49,C,major,C major,32.2,60.6,121.04
+Without You (feat. Usher),David Guetta,2012,50,D,major,D major,40.2,60.8,127.884
+Ass Back Home (feat. Neon Hitch),Gym Class Heroes,2012,51,Bb,major,Bb major,64.6,71.6,130.034
+Wanted,Hunter Hayes,2012,52,C,major,C major,30.0,42.1,169.784
+Drunk On You,Luke Bryan,2012,53,A,major,A major,47.2,55.8,143.971
+No Lie,2 Chainz,2012,54,D,major,D major,58.9,64.1,130.927
+Want U Back,Cher Lloyd,2012,55,A,major,A major,56.3,69.4,97.939
+Don't Wake Me Up,Chris Brown,2012,56,G,minor,G minor,20.6,60.2,127.967
+Dance (A$$) Remix,Big Sean,2012,57,B,minor,B minor,69.8,82.1,79.949
+Springsteen,Eric Church,2012,58,D,major,D major,92.7,69.2,104.023
+Brokenhearted,Karmin,2012,59,C#,minor,C# minor,88.6,76.5,120.001
+Not Over You,Gavin DeGraw,2012,60,Bb,major,Bb major,36.4,63.0,142.051
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,2012,61,A,major,A major,79.6,64.6,89.99
+"Back in Time - featured in ""Men In Black 3""",Pitbull,2012,62,C,major,C major,78.9,73.1,127.086
+Work Out,J. Cole,2012,63,D,major,D major,21.6,83.1,93.004
+Rumour Has It,Adele,2012,64,G,minor,G minor,55.7,61.8,120.041
+Let's Go (feat. Ne-Yo),Calvin Harris,2012,65,E,minor,E minor,87.5,71.0,128.016
+Good Girl,Carrie Underwood,2012,66,C,minor,C minor,74.1,61.7,128.91
+Pontoon,Little Big Town,2012,67,A,major,A major,86.7,72.1,96.02
+Ho Hey,The Lumineers,2012,68,C,major,C major,35.3,68.5,79.936
+Paradise,Coldplay,2012,69,F,major,F major,20.3,44.9,139.627
+Blown Away,Carrie Underwood,2012,70,A,minor,A minor,39.2,53.1,136.991
+Rolling in the Deep,Adele,2012,71,G#,major,G# major,52.2,72.9,104.945
+Climax,Usher,2012,72,G#,major,G# major,33.3,64.7,135.877
+"Work Hard, Play Hard",Wiz Khalifa,2012,73,B,major,B major,48.5,78.7,140.008
+Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,2012,74,F,major,F major,24.8,65.8,124.91
+Pound The Alarm,Nicki Minaj,2012,75,A,major,A major,59.1,72.8,125.054
+Come Over,Kenny Chesney,2012,76,C#,major,C# major,48.1,46.6,176.043
+Heart Attack,Trey Songz,2012,77,G#,minor,G# minor,50.7,60.7,149.872
+Drank in My Cup,Kirko Bangz,2012,78,G#,minor,G# minor,23.4,45.1,132.89
+Birthday Cake,Rihanna,2012,79,D#,major,D# major,32.9,70.2,80.014
+So Good,B.o.B,2012,80,G,major,G major,59.1,66.0,85.51
+50 Ways to Say Goodbye,Train,2012,81,F#,major,F# major,73.6,59.1,140.043
+Red Solo Cup,Toby Keith,2012,82,E,major,E major,81.0,54.9,163.991
+Love You Like A Love Song,Selena Gomez & The Scene,2012,83,C#,minor,C# minor,92.2,85.8,117.009
+Turn Up the Music,Chris Brown,2012,84,C#,major,C# major,64.3,59.4,129.925
+Die Young,Kesha,2012,85,C#,minor,C# minor,80.1,71.1,128.001
+5 O'Clock (feat. Lily Allen & Wiz Khalifa),T-Pain,2012,86,G,minor,G minor,38.5,40.0,167.114
+A Thousand Years,Christina Perri,2012,87,Bb,major,Bb major,16.1,42.1,139.028
+Take a Little Ride,Jason Aldean,2012,88,D,major,D major,76.0,46.4,163.934
+You Da One,Rihanna,2012,89,F,minor,F minor,86.3,70.2,127.05
+We Run The Night,Havana Brown,2012,90,A,minor,A minor,70.3,69.7,127.023
+It's Time,Imagine Dragons,2012,91,D,major,D major,86.0,65.6,105.009
+Cashin' Out,Ca$h Out,2012,92,C#,minor,C# minor,66.3,83.1,129.989
+I Don't Want This Night To End,Luke Bryan,2012,93,A,minor,A minor,37.5,61.6,111.934
+Diamonds,Rihanna,2012,94,B,minor,B minor,39.3,56.4,91.972
+Hard To Love,Lee Brice,2012,95,A,major,A major,46.9,63.8,103.017
+Somethin' 'Bout A Truck,Kip Moore,2012,96,B,major,B major,79.0,55.4,176.01
+Adorn,Miguel,2012,97,B,minor,B minor,23.5,62.5,179.063
+Fly over States,Jason Aldean,2012,98,G,major,G major,19.4,48.0,81.519
+Even If It Breaks Your Heart,Eli Young Band,2012,99,C,major,C major,57.4,49.5,208.067
+BURN IT DOWN,Linkin Park,2012,100,A,minor,A minor,58.5,58.5,110.006
+Rolling in the Deep,Adele,2011,1,G#,major,G# major,52.2,72.9,104.945
+Party Rock Anthem,LMFAO,2011,2,F,minor,F minor,35.2,75.1,130.014
+Firework,Katy Perry,2011,3,G#,major,G# major,64.9,63.8,124.072
+E.T.,Katy Perry,2011,4,C#,major,C# major,76.0,62.0,151.684
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,2011,5,G#,major,G# major,52.9,67.1,129.023
+Grenade,Bruno Mars,2011,6,D,minor,D minor,22.7,70.6,110.443
+Fuck You,CeeLo Green,2011,7,C,major,C major,73.8,69.0,127.43
+Super Bass,Nicki Minaj,2011,8,B,major,B major,66.9,72.0,126.991
+Moves Like Jagger,Maroon 5,2011,9,B,minor,B minor,59.9,72.0,128.017
+Just Can’t Get Enough,Black Eyed Peas,2011,10,C,minor,C minor,26.2,65.9,94.05
+On The Floor - Radio Edit,Jennifer Lopez,2011,11,B,major,B major,44.4,75.8,130.007
+S&M,Rihanna,2011,12,C#,major,C# major,83.3,76.6,127.966
+Pumped Up Kicks,Foster The People,2011,13,F,minor,F minor,96.5,73.3,127.975
+Last Friday Night (T.G.I.F.),Katy Perry,2011,14,D#,minor,D# minor,76.5,64.9,126.03
+Just the Way You Are,Bruno Mars,2011,15,F,major,F major,43.4,63.7,109.012
+Tonight (I'm Fuckin' You),Enrique Iglesias,2011,16,C,minor,C minor,27.2,66.6,125.989
+Raise Your Glass,P!nk,2011,17,G,major,G major,61.6,69.9,122.053
+Born This Way,Lady Gaga,2011,18,B,major,B major,49.4,58.7,123.907
+F**kin' Perfect,P!nk,2011,19,G,major,G major,48.5,57.0,91.954
+What's My Name?,Rihanna,2011,20,D,major,D major,58.3,69.0,100.049
+Look At Me Now,Chris Brown,2011,21,B,minor,B minor,53.8,76.7,146.155
+Down On Me,Jeremih,2011,22,D,major,D major,59.4,70.0,160.041
+How To Love,Lil Wayne,2011,23,B,major,B major,27.2,64.4,154.001
+Someone Like You,Adele,2011,24,A,major,A major,28.5,55.9,135.109
+Good Life,OneRepublic,2011,25,F#,major,F# major,64.5,63.4,94.988
+The Lazy Song,Bruno Mars,2011,26,B,major,B major,94.9,73.8,174.943
+Till the World Ends,Britney Spears,2011,27,G#,major,G# major,45.0,69.3,131.951
+The Show Goes On,Lupe Fiasco,2011,28,G,major,G major,62.9,59.6,143.097
+The Edge Of Glory,Lady Gaga,2011,29,A,major,A major,35.7,58.3,127.952
+We R Who We R,Kesha,2011,30,G#,major,G# major,65.3,73.6,119.95
+Black and Yellow,Wiz Khalifa,2011,31,D,minor,D minor,53.8,68.4,164.02
+Tonight Tonight,Hot Chelle Rae,2011,32,E,major,E major,81.6,68.9,99.984
+Blow,Kesha,2011,33,B,minor,B minor,81.2,75.3,120.013
+Lighters,Bad Meets Evil,2011,34,C,major,C major,14.4,67.6,90.268
+If I Die Young,The Band Perry,2011,35,E,major,E major,36.2,60.6,130.739
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,2011,36,A,major,A major,79.6,64.6,89.99
+The Time (Dirty Bit),Black Eyed Peas,2011,37,F#,minor,F# minor,43.6,81.6,127.979
+Coming Home,Diddy - Dirty Money,2011,38,G,major,G major,23.2,39.2,168.001
+Hey Baby (Drop It to the Floor) (feat. T-Pain),Pitbull,2011,39,Bb,minor,Bb minor,76.2,59.5,128.021
+Only Girl (In The World),Rihanna,2011,40,B,minor,B minor,63.2,78.8,125.919
+6 Foot 7 Foot,Lil Wayne,2011,41,D,major,D major,60.4,36.5,79.119
+Just A Kiss,Lady Antebellum,2011,42,C#,major,C# major,33.2,59.3,142.881
+Dirt Road Anthem,Jason Aldean,2011,43,D,major,D major,63.5,68.0,127.024
+Dynamite,Taio Cruz,2011,44,E,major,E major,81.8,75.4,119.968
+No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,2011,45,C#,major,C# major,36.1,76.0,131.497
+I Wanna Go,Britney Spears,2011,46,F,major,F major,78.7,69.6,130.002
+I'm On One,DJ Khaled,2011,47,B,minor,B minor,43.8,41.3,149.33
+You Make Me Feel... (feat. Sabi),Cobra Starship,2011,48,G,minor,G minor,74.8,66.8,131.959
+Yeah 3x,Chris Brown,2011,49,B,minor,B minor,70.0,70.5,130.0
+Moment 4 Life,Nicki Minaj,2011,50,B,major,B major,38.6,68.0,97.943
+I Need A Doctor,Dr. Dre,2011,51,D#,major,D# major,39.7,59.4,155.826
+Just A Dream - Main,Nelly,2011,52,C#,major,C# major,10.3,53.1,89.917
+Motivation,Kelly Rowland,2011,53,A,minor,A minor,26.4,73.5,140.858
+Stereo Love - Radio Edit,Edward Maya,2011,54,C#,minor,C# minor,58.6,79.9,127.041
+Jar of Hearts,Christina Perri,2011,55,D#,major,D# major,8.86,34.9,74.541
+Roll Up,Wiz Khalifa,2011,56,D#,major,D# major,60.2,52.3,125.358
+Sexy And I Know It,LMFAO,2011,57,G,major,G major,79.5,70.7,130.021
+Rocketeer,Far East Movement,2011,58,E,minor,E minor,35.7,66.4,96.005
+All Of The Lights,Kanye West,2011,59,C#,major,C# major,22.1,54.1,142.135
+Hold It Against Me,Britney Spears,2011,60,C,minor,C minor,38.9,64.8,132.973
+More - RedOne Jimmy Joker Remix,Usher,2011,61,G,major,G major,79.4,55.1,125.083
+What the Hell,Avril Lavigne,2011,62,F#,minor,F# minor,87.7,57.8,149.976
+Written in the Stars (feat. Eric Turner),Tinie Tempah,2011,63,G,major,G major,57.3,64.4,91.017
+Bottoms Up (feat. Nicki Minaj),Trey Songz,2011,64,C#,major,C# major,32.9,84.5,74.008
+DJ Got Us Fallin' In Love (feat. Pitbull),Usher,2011,65,G,minor,G minor,65.4,66.3,119.963
+For the First Time,The Script,2011,66,A,major,A major,40.4,40.0,173.895
+Honey Bee,Blake Shelton,2011,67,E,major,E major,72.3,48.1,205.57
+Don't You Wanna Stay (with Kelly Clarkson),Jason Aldean,2011,68,B,major,B major,15.2,44.5,143.846
+We Found Love,Rihanna,2011,69,C#,major,C# major,60.0,73.4,127.986
+Pretty Girl Rock,Keri Hilson,2011,70,B,minor,B minor,90.0,66.6,160.014
+You And I,Lady Gaga,2011,71,D,major,D major,51.8,52.1,127.087
+Like A G6,Far East Movement,2011,72,D#,major,D# major,77.8,43.5,124.913
+Without You (feat. Usher),David Guetta,2011,73,D,major,D major,40.2,60.8,127.884
+Back To December,Taylor Swift,2011,74,D,major,D major,28.6,52.9,141.893
+Teenage Dream,Katy Perry,2011,75,Bb,major,Bb major,60.5,71.9,119.999
+Crazy Girl,Eli Young Band,2011,76,E,major,E major,25.7,36.6,151.343
+Cheers (Drink To That),Rihanna,2011,77,A,major,A major,72.7,57.6,79.981
+Who Says,Selena Gomez & The Scene,2011,78,E,major,E major,74.4,68.2,101.019
+Barefoot Blue Jean Night,Jake Owen,2011,79,E,major,E major,80.9,60.0,172.016
+Knee Deep (feat. Jimmy Buffett),Zac Brown Band,2011,80,G#,major,G# major,61.0,71.5,90.987
+Country Girl (Shake It For Me),Luke Bryan,2011,81,D,major,D major,67.1,64.5,105.97
+Remind Me (with Carrie Underwood),Brad Paisley,2011,82,F,major,F major,28.8,48.5,140.781
+In The Dark,DEV,2011,83,G#,major,G# major,44.2,73.6,124.954
+Backseat (feat. The Cataracs & Dev),New Boyz,2011,84,G,major,G major,78.2,59.5,125.029
+Headlines,Drake,2011,85,F#,minor,F# minor,42.5,63.6,151.894
+Best Thing I Never Had,Beyoncé,2011,86,F#,major,F# major,28.6,54.3,99.13
+Don't Wanna Go Home,Jason Derulo,2011,87,D,minor,D minor,67.5,67.1,121.951
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,2011,88,D#,major,D# major,57.1,66.4,129.876
+She Ain't You,Chris Brown,2011,89,D,major,D major,61.9,63.4,91.039
+Take A Back Road,Rodney Atkins,2011,90,D#,major,D# major,91.8,58.1,169.902
+Please Don't Go,Mike Posner,2011,91,E,minor,E minor,65.7,69.9,120.016
+Sure Thing,Miguel,2011,92,B,minor,B minor,50.4,68.4,81.0
+Price Tag,Jessie J,2011,93,F,major,F major,68.5,63.8,175.038
+God Gave Me You,Blake Shelton,2011,94,D,major,D major,54.3,48.3,151.977
+She Will,Lil Wayne,2011,95,G#,major,G# major,8.37,36.4,100.14
+Are You Gonna Kiss Me Or Not,Thompson Square,2011,96,G#,major,G# major,61.3,48.5,151.948
+Animal,Neon Trees,2011,97,F,major,F major,74.0,48.2,148.039
+You and Tequila (feat. Grace Potter),Kenny Chesney,2011,98,F#,major,F# major,35.0,69.1,135.839
+Colder Weather,Zac Brown Band,2011,99,D#,major,D# major,19.9,66.7,135.979
+My Last,Big Sean,2011,100,G#,major,G# major,36.7,38.5,78.698
+TiK ToK,Kesha,2010,1,D,minor,D minor,71.4,75.5,120.028
+Need You Now,Lady Antebellum,2010,2,E,major,E major,23.1,58.7,107.943
+"Hey, Soul Sister",Train,2010,3,C#,minor,C# minor,79.5,67.3,97.012
+California Gurls,Katy Perry,2010,4,C,major,C major,42.5,79.1,125.014
+OMG (feat. will.i.am),Usher,2010,5,E,minor,E minor,32.6,78.1,129.998
+Airplanes (feat. Hayley Williams),B.o.B,2010,6,F#,minor,F# minor,37.7,66.0,93.033
+Love The Way You Lie,Eminem,2010,7,Bb,major,Bb major,64.1,74.9,86.989
+Bad Romance,Lady Gaga,2010,8,C,major,C major,71.4,69.6,119.001
+Dynamite,Taio Cruz,2010,9,E,major,E major,81.8,75.4,119.968
+Break Your Heart,Taio Cruz,2010,10,G#,major,G# major,62.9,66.6,122.05
+Nothin' on You (feat. Bruno Mars),B.o.B,2010,11,Bb,major,Bb major,74.3,68.8,103.993
+I Like It,Enrique Iglesias,2010,12,Bb,minor,Bb minor,70.4,64.6,129.011
+BedRock,Young Money,2010,13,G#,major,G# major,56.6,73.8,148.004
+In My Head,Jason Derulo,2010,14,C,minor,C minor,85.2,76.2,110.002
+Rude Boy,Rihanna,2010,15,B,major,B major,81.2,56.3,173.906
+Telephone,Lady Gaga,2010,16,D#,major,D# major,71.6,82.4,122.014
+Teenage Dream,Katy Perry,2010,17,Bb,major,Bb major,60.5,71.9,119.999
+Just the Way You Are,Bruno Mars,2010,18,F,major,F major,43.4,63.7,109.012
+Cooler Than Me - Single Mix,Mike Posner,2010,19,G,minor,G minor,62.3,76.7,129.96
+Imma Be,Black Eyed Peas,2010,20,C,major,C major,41.2,59.7,92.035
+Empire State Of Mind,JAY-Z,2010,21,B,major,B major,81.1,49.1,173.585
+DJ Got Us Fallin' In Love (feat. Pitbull),Usher,2010,22,G,minor,G minor,65.4,66.3,119.963
+Billionaire (feat. Bruno Mars),Travie McCoy,2010,23,F#,minor,F# minor,65.9,63.3,86.776
+Not Afraid,Eminem,2010,24,C,minor,C minor,66.8,85.5,114.635
+Replay,Iyaz,2010,25,A,major,A major,19.5,70.6,91.031
+Sexy Bitch (feat. Akon),David Guetta,2010,26,B,minor,B minor,80.1,81.3,130.011
+Breakeven,The Script,2010,27,Bb,major,Bb major,52.9,63.0,94.023
+Your Love Is My Drug,Kesha,2010,28,C#,major,C# major,75.6,82.6,120.057
+I Gotta Feeling,Black Eyed Peas,2010,29,C,major,C major,61.0,74.3,127.96
+Fireflies,Owl City,2010,30,D#,major,D# major,44.1,57.0,90.023
+Say Aah (feat. Fabolous),Trey Songz,2010,31,C#,minor,C# minor,81.0,72.4,93.01
+Find Your Love,Drake,2010,32,F#,minor,F# minor,75.8,62.7,96.038
+Alejandro,Lady Gaga,2010,33,B,minor,B minor,36.0,62.3,98.998
+Ridin' Solo,Jason Derulo,2010,34,A,major,A major,57.8,44.2,89.338
+Just A Dream - Main,Nelly,2010,35,C#,major,C# major,10.3,53.1,89.917
+How Low,Ludacris,2010,36,C#,major,C# major,41.8,78.5,143.96
+Like A G6,Far East Movement,2010,37,D#,major,D# major,77.8,43.5,124.913
+Carry Out (Featuring Justin Timberlake),Timbaland,2010,38,Bb,minor,Bb minor,27.2,53.1,115.68
+Haven't Met You Yet,Michael Bublé,2010,39,G#,major,G# major,79.6,61.5,122.58
+Club Can't Handle Me (feat. David Guetta) - From the Step Up 3D Soundtrack,Flo Rida,2010,40,C,major,C major,52.5,62.3,127.98
+Down,Jay Sean,2010,41,D,major,D major,68.3,65.7,65.997
+Bulletproof,La Roux,2010,42,D#,minor,D# minor,68.2,67.4,123.016
+Whatcha Say,Jason Derulo,2010,43,B,major,B major,71.1,61.5,144.036
+Baby,Justin Bieber,2010,44,F,minor,F minor,53.5,72.8,65.043
+Whataya Want from Me,Adam Lambert,2010,45,B,minor,B minor,44.5,44.0,185.948
+Mine,Taylor Swift,2010,46,G,major,G major,65.8,62.4,121.07
+Only Girl (In The World),Rihanna,2010,47,B,minor,B minor,63.2,78.8,125.919
+Live Like We're Dying,Kris Allen,2010,48,C,major,C major,93.4,57.8,92.011
+Hard,Rihanna,2010,49,C#,major,C# major,16.3,31.0,182.032
+Young Forever,JAY-Z,2010,50,A,minor,A minor,10.3,63.7,140.329
+Blah Blah Blah (feat. 3OH!3),Kesha,2010,51,Bb,major,Bb major,51.9,75.2,120.003
+Bottoms Up (feat. Nicki Minaj),Trey Songz,2010,52,C#,major,C# major,32.9,84.5,74.008
+Do You Remember,Jay Sean,2010,53,B,major,B major,80.3,85.5,125.846
+All The Right Moves,OneRepublic,2010,54,C,major,C major,65.0,52.9,146.024
+According To You,Orianthi,2010,55,F,major,F major,55.2,61.9,131.002
+My Chick Bad,Ludacris,2010,56,C#,major,C# major,75.7,62.4,84.789
+You Belong With Me,Taylor Swift,2010,57,F#,major,F# major,44.3,68.7,129.964
+Meet Me Halfway,Black Eyed Peas,2010,58,B,minor,B minor,40.0,79.8,130.0
+Take It Off,Kesha,2010,59,F,minor,F minor,74.0,72.9,125.036
+Over,Drake,2010,60,G,major,G major,45.0,35.0,99.643
+Animal,Neon Trees,2010,61,F,major,F major,74.0,48.2,148.039
+Misery,Maroon 5,2010,62,E,minor,E minor,71.1,70.3,102.979
+Magic (feat. Rivers Cuomo),B.o.B,2010,63,G#,minor,G# minor,78.7,54.9,82.439
+Paparazzi,Lady Gaga,2010,64,F,minor,F minor,39.7,76.2,114.906
+Tie Me Down (feat. Ray J),New Boyz,2010,65,G#,major,G# major,38.0,42.0,97.967
+Your Love,Nicki Minaj,2010,66,B,major,B major,18.4,42.4,189.629
+Party In The U.S.A.,Miley Cyrus,2010,67,Bb,minor,Bb minor,47.0,65.2,96.021
+Deuces,Chris Brown,2010,68,C#,major,C# major,21.7,69.2,73.987
+3,Britney Spears,2010,69,F,minor,F minor,78.7,69.7,134.91
+Impossible - Main,Shontelle,2010,70,G#,major,G# major,53.9,59.9,90.034
+Forever,Various Artists,2010,71,F,minor,F minor,55.2,47.1,108.397
+Two Is Better Than One (feat. Taylor Swift),Boys Like Girls,2010,72,C,major,C major,25.0,52.1,127.976
+My First Kiss (feat. Ke$ha),3OH!3,2010,73,C,major,C major,82.7,68.2,138.021
+Already Gone,Kelly Clarkson,2010,74,A,major,A major,29.4,20.9,78.139
+Rock That Body,Black Eyed Peas,2010,75,G,minor,G minor,84.1,71.5,124.992
+Secrets,OneRepublic,2010,76,D,major,D major,37.6,51.6,148.021
+Naturally,Selena Gomez & The Scene,2010,77,Bb,minor,Bb minor,87.5,60.5,132.612
+Un-thinkable (I'm Ready),Alicia Keys,2010,78,G,major,G major,33.7,59.5,86.099
+All I Do Is Win,DJ Khaled,2010,79,Bb,major,Bb major,27.7,54.5,150.097
+I Made It (Cash Money Heroes),Kevin Rudolf,2010,80,G,major,G major,57.7,58.0,120.542
+Stuck Like Glue,Sugarland,2010,81,C#,major,C# major,83.6,70.2,83.961
+Hey Daddy (Daddy's Home) (feat. Plies),Usher,2010,82,B,major,B major,35.6,40.2,127.835
+There Goes My Baby,Usher,2010,83,A,minor,A minor,25.7,62.6,77.468
+Today Was A Fairytale,Taylor Swift,2010,84,G,major,G major,34.4,49.1,157.988
+Say Something (Featuring Drake),Timbaland,2010,85,B,major,B major,72.5,55.5,79.934
+Sweet Dreams,Beyoncé,2010,86,C#,major,C# major,78.8,69.4,121.949
+Use Somebody,Kings of Leon,2010,87,C,major,C major,15.8,27.2,137.173
+Undo It,Carrie Underwood,2010,88,D,major,D major,64.8,47.6,156.254
+Eenie Meenie,Justin Bieber,2010,89,C#,major,C# major,81.2,71.8,121.22
+Right Above It,Lil Wayne,2010,90,D#,minor,D# minor,46.3,37.6,76.052
+The House That Built Me,Miranda Lambert,2010,91,F,major,F major,20.6,51.5,81.12
+If I Die Young,The Band Perry,2010,92,E,major,E major,36.2,60.6,130.739
+The Only Exception,Paramore,2010,93,E,major,E major,20.9,45.2,137.715
+American Honey,Lady Antebellum,2010,94,C#,major,C# major,12.1,58.8,85.997
+King of Anything - Radio Mix,Various Artists,2010,95,C#,major,C# major,77.1,61.9,119.009
+Life After You,Daughtry,2010,96,F,major,F major,30.9,43.4,51.316
+Smile,Uncle Kracker,2010,97,E,major,E major,59.9,55.2,141.065
+Teach Me How to Dougie,Cali Swag District,2010,98,B,major,B major,51.2,84.6,85.013
+Try Sleeping with a Broken Heart,Alicia Keys,2010,99,F,major,F major,54.9,49.6,110.977
+"Lover, Lover",Jerrod Niemann,2010,100,G,major,G major,94.8,87.9,112.472
